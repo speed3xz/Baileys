@@ -15,7 +15,6 @@
   "homepage": "https://github.com/speed3xz/Baileys",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/speed3xz/Baileys.git"
   },
   "license": "MIT",
   "author": "speed3xz",
